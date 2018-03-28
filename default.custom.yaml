@@ -1,0 +1,11 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.9.30
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Fri Feb 09 13:15:08 2018"
+  rime_version: 1.1.2
+patch:
+  schema_list:
+    - {schema: double_pinyin_flypy}
+    - {schema: emoji}
+    - {schema: pinyin_simp}
